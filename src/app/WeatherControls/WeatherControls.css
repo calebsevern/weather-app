@@ -1,0 +1,19 @@
+.pillar-controls-wrapper {
+  max-width: 300px;
+  margin: 32px auto auto auto;
+  border-bottom: 1px solid rgba(0, 0, 0, .32);
+}
+
+.pillar-controls-row {
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.pillar-recent-searches {
+  font-size: 13px;
+  margin-bottom: 20px;
+}

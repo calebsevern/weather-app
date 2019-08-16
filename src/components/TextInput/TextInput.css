@@ -1,0 +1,9 @@
+.pillar-text-input {
+  height: 36px;
+  line-height: 36px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 100%;
+  padding: 2px 8px;
+}
